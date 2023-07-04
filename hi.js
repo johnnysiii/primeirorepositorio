@@ -1,2 +1,2 @@
 console.log(HiWorld);
-console.log(hiDia); 
+console.log(hi, Dia);
